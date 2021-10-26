@@ -6,7 +6,7 @@
 
 ## What I've learned and practiced everday 🧐
 - [IBM Data Analyst Professional](/IBM-Data-Analyst-Professional)
-- [HackerRank SQL Challenge](/HackerRank-Challenge/SQL-Solutions)
+- [HackerRank SQL Challenge](../../../Augustisme/HackerRank-Challenge/blob/main/SQL-Solutions)
 - [HackerRank Python Challenge](/HackerRank-Challenge/Python-Solutions)
 
 
