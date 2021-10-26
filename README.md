@@ -1,14 +1,4 @@
-
 ### **Hello world! I'm August** 😎
-</div>
-
-
-<p>Welcome to my Github!</p>
-<div>
-<img src="https://github.com/Augustisme/Augustisme/blob/main/IMG/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
-
 
 - 😊 I'm here with the motto: Let's play with code.
 - 💪 A self-taught Data Analytics with the background in Business and MarCom.
@@ -27,4 +17,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustisme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## View my repos here 📌
+</div>
+
+<div align="center">
+<p> Have a nice day!</p>
+<div>
+<img src="https://github.com/Augustisme/Augustisme/blob/main/IMG/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
