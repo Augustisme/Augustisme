@@ -1,4 +1,6 @@
+<div align="center">
 ### **Hello world! I'm August** 😎
+</div>
 
 <div align="center">
 <p>Welcome to my Github!</p>
@@ -6,6 +8,7 @@
 <img src="https://github.com/Augustisme/Augustisme/blob/main/IMG/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
+
 
 - 😊 I'm here with the motto: Let's play with code.
 - 💪 A self-taught Data Analytics with the background in Business and MarCom.
