@@ -17,9 +17,3 @@
 
 
 ## View my repos here 🧐
-<a href="https://github.com/augustisme/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=augustisme&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/augustisme/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=augustisme&repo=convoychat" />
-</a>
