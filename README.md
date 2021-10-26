@@ -1,5 +1,5 @@
 <div align="center">
-### **Hello world! I'm August** 😎
+<p>### **Hello world! I'm August** 😎</p>
 </div>
 
 <div align="center">
