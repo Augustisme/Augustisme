@@ -1,8 +1,8 @@
-<div align="center">
-<p>### **Hello world! I'm August** 😎</p>
+
+### **Hello world! I'm August** 😎
 </div>
 
-<div align="center">
+
 <p>Welcome to my Github!</p>
 <div>
 <img src="https://github.com/Augustisme/Augustisme/blob/main/IMG/smile.gif" alt="Smiley" align="center">
