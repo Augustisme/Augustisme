@@ -6,6 +6,7 @@
 - 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/vongocminhthuw/)
 ---
 ## What I've learned and practiced everday 🧐
+
 - [IBM Data Analyst Professional](https://github.com/Augustisme/IBM-Data-Analyst-Professional)
 - [HackerRank SQL Challenge](https://github.com/Augustisme/HackerRank-Challenge/blob/main/SQL%20Solutions)
 - [HackerRank Python Challenge](https://github.com/Augustisme/HackerRank-Challenge/blob/main/Python%20Solutions)
