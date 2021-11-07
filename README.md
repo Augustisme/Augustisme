@@ -8,8 +8,8 @@
 ## What I've learned and practiced everday 🧐
 
 - [IBM Data Analyst Professional](https://github.com/Augustisme/IBM-Data-Analyst-Professional)
-- [HackerRank SQL Challenge]
-- [HackerRank Python Challenge]
+- HackerRank SQL Challenge
+- HackerRank Python Challenge
 
 ---
 ## View my stats here 🔎	
