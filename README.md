@@ -1,7 +1,7 @@
 # **Hello world! I'm August** 😎
 
 - 😊 I'm here with the motto: Let's play with code.
-- 💪 A self-taught Data Analytics with the background in Business and MarCom.
+- 📝 A self-taught Data Analytics with the background in Business and MarCom.
 - 💭 Discipline weighs ounces while regret weighs tons. 
 - 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/vongocminhthuw/)
 ---
